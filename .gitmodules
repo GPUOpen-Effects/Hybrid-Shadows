@@ -1,0 +1,9 @@
+[submodule "libs/cauldron"]
+	path = libs/cauldron
+	url = ../../GPUOpen-LibrariesAndSDKs/Cauldron
+[submodule "media/Cauldron-Media"]
+	path = media/Cauldron-Media
+	url = ../../GPUOpen-LibrariesAndSDKs/Cauldron-Media
+[submodule "libs/FidelityFX-Denoiser"]
+	path = libs/FidelityFX-Denoiser
+	url = ../../GPUOpen-Effects/FidelityFX-Denoiser.git

@@ -1,0 +1,34 @@
+{
+  "globals": {
+    "CpuValidationLayerEnabled": false,
+    "GpuValidationLayerEnabled": false,
+    "presentationMode": 0,
+    "width": 1920,
+    "height": 1080,
+    "activeScene": 0,
+    "benchmark": false,
+    "vsync": false,
+    "stablePowerState": false,
+    "FreesyncHDROptionEnabled": false,
+    "fontsize":  13
+  },
+  "scenes": [
+    {
+      "name": "BrutalistHall",
+      "directory": "..\\media\\cauldron-media\\Brutalism\\",
+      "filename": "BrutalistHall.gltf",
+      "iblFactor": 0.36,
+      "emmisiveFactor": 1,
+      "intensity": 10,
+      "exposure": 1,
+      "activeCamera": 7,
+      "sunSize": 0.25,
+      "shadowMapSize": 1024,
+      "hybirdMode": 2,
+      "camera": {
+        "defaultFrom": [ 1, 1, -5.5 ],
+        "defaultTo": [ 3, 1, -6 ]
+      }
+    }
+  ]
+}
